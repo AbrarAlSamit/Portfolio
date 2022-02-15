@@ -1,0 +1,32 @@
+body {
+    line-height: 20px;
+    font-family:serif;
+    font-size:20px;
+}
+
+h3 {
+    color : grey;
+}
+.pink_color {
+    color:violet;
+}
+.content {
+    width: 50%;
+    float:left;
+}
+.button {
+    padding:10px;
+    background-color: blueviolet;
+    color:white;
+    width:fit-content;
+    border-radius:10px;
+    text-decoration: none;
+}
+.container { 
+    margin:100px;
+    display:inline-block;
+
+}
+.bigimg {
+    width:500px;
+}
